@@ -1,0 +1,97 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal"
+        android:background="@drawable/bordas_arredondadas_pesquisa"
+        android:id="@+id/linearLayout">
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="4"
+            android:hint="Pesquise o local" />
+
+
+        <Button
+            android:id="@+id/search_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5"
+            android:onClick="onMapSearch"
+            android:text="Pesquisar" />
+
+
+
+    </LinearLayout>
+
+
+    <Button
+
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/terreno"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="10dp"
+        android:background="@drawable/bordas_arredondadas"
+        android:drawableBottom="@drawable/colombia"
+        />
+    <Button
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="180dp"
+        android:id="@+id/hibrido"
+        android:background="@drawable/bordas_arredondadas"
+        android:drawableBottom="@drawable/planetland" />
+    <Button
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="260dp"
+        android:id="@+id/normal"
+        android:drawableBottom="@drawable/threebuildings"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/bordas_arredondadas"
+        />
+    <Button
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="100dp"
+        android:layout_marginBottom="50dp"
+        android:id="@+id/BotaoRegistrar"
+        android:drawableBottom="@drawable/paper"
+        android:background="@drawable/bordas_arredondadas"
+        />
+
+    <Button
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="200dp"
+        android:layout_marginBottom="50dp"
+        android:id="@+id/BotaoLogin"
+        android:drawableBottom="@drawable/sharesymbol"
+        android:background="@drawable/bordas_arredondadas"
+        />
+
+
+
+
+</RelativeLayout>

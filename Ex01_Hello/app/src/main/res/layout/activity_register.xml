@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#f5c90007">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="30dp"
+        android:text="Zonaperigo"
+        android:textSize="30sp"
+        android:padding="10dp"
+        android:textColor="#faf9f9"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/nome"
+        android:hint="Nome"
+        android:textColorHint="#faf9f9"
+        android:textColor="#ffffff"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:singleLine="true" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:textColor="#ffffff"
+        android:singleLine="true"
+        android:id="@+id/etEmail"
+        android:hint="Email"
+        android:textColorHint="#faf9f9"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"/>
+    <EditText
+        android:id="@+id/etPass"
+        android:layout_width="match_parent"
+        android:textColor="#ffffff"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:hint="Senha"
+        android:textColorHint="#faf9f9"
+        android:singleLine="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        />
+    <EditText
+        android:id="@+id/etconfirm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:inputType="textPassword"
+        android:hint="Confirmar senha"
+        android:textColorHint="#faf9f9"
+        android:singleLine="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        />
+
+    <Button
+        android:id="@+id/btnReg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Registrar"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:onClick="register"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Voltar para login"
+        android:id="@+id/tvLogin"
+        android:textColor="#faf9f9"
+        android:layout_gravity="center_horizontal" />
+
+
+</LinearLayout>

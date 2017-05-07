@@ -1,0 +1,7 @@
+#Sun May 07 15:12:43 BRT 2017
+base.0=C\:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_49f87727aed1c553b087070e508afad2d33e988d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b4d962781250fa9419b5f3b21a84a4fc2a6444bc\\classes.dex
+base.1=C\:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b4d962781250fa9419b5f3b21a84a4fc2a6444bc
+file.0=C\:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_49f87727aed1c553b087070e508afad2d33e988d\\classes.dex

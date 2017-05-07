@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:1:39-69:12
+	package
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:2:1-39
+		INJECTED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:1:49-107
+	android:versionCode
+		INJECTED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:4:1-63
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\NatanPolly\.android\build-cache\ee0dab420e7803c2c3aca0a78b7aa1cd17944aef\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:4:18-60
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:5:1-75
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\NatanPolly\.android\build-cache\ee0dab420e7803c2c3aca0a78b7aa1cd17944aef\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:5:18-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:6:1-77
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:6:18-74
+uses-permission#com.google.android.providers.gsf.permission.READ.GSERVICES
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:7:1-94
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:7:18-91
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:8:1-77
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:8:18-74
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:9:1-75
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:9:18-72
+uses-feature#0x00020000
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:11:1-74
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\NatanPolly\.android\build-cache\ee0dab420e7803c2c3aca0a78b7aa1cd17944aef\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:11:15-47
+	android:required
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:11:48-71
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:13:1-94
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:13:18-91
+application
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:15:1-67:15
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\NatanPolly\.android\build-cache\ee0dab420e7803c2c3aca0a78b7aa1cd17944aef\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\NatanPolly\.android\build-cache\41ac4e55fe8cc3c1f2c9b0eca62aeea1052c6933\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\NatanPolly\.android\build-cache\26baeb04bc5e0343fa63ac1cd5067819d7a754a2\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\NatanPolly\.android\build-cache\f799f8a429ca4468a9b4620e214ddb6d612784d6\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NatanPolly\.android\build-cache\b6b9348723aaf8ecb3008890f70f1d37efb10a9d\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\NatanPolly\.android\build-cache\7a2f5d718570550470ec684b882a024101a905f7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\NatanPolly\.android\build-cache\f828a2d57724b181200c97204ba7fdf3bea2adff\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\NatanPolly\.android\build-cache\2969bd67704a6c927107d0b5cff3c2d375954586\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\NatanPolly\.android\build-cache\945a586ea6404352db27ef39ccfb0e9709abd224\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\NatanPolly\.android\build-cache\5b0915882b685576cc8aa7e742c55302cd34e5d9\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\NatanPolly\.android\build-cache\c2230b7037ca9db5a08d3e50791966417122cb13\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\NatanPolly\.android\build-cache\f5910e70bcf6b6ef7f318e195cf7e063d13b999d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\NatanPolly\.android\build-cache\9234f406090972e498082126a5de0d407ecdbd05\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\NatanPolly\.android\build-cache\a6913343c337bdc1755962f1faa03a3b0a4f98a9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\NatanPolly\.android\build-cache\ffec86c7fc5a88d9a8b95462b7b5ae42495e8444\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\NatanPolly\.android\build-cache\f219cf10f3518d0df8f3212f58a4fd144ecb4d55\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:18:5-37
+	android:supportsRtl
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:19:5-31
+	android:allowBackup
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:16:5-31
+	android:icon
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:17:5-38
+	android:theme
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:20:5-36
+activity#dominando.android.ex01_hello.Splash_Activity
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:22:5-31:16
+	android:screenOrientation
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:25:9-45
+	android:label
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:24:9-41
+	android:theme
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:26:9-62
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:23:9-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:27:9-30:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:28:13-65
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:28:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:29:13-73
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:29:23-70
+activity#dominando.android.ex01_hello.LoginActivity
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:32:5-35:48
+	android:screenOrientation
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:35:9-45
+	android:label
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:34:9-53
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:33:9-38
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:37:5-39:65
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\NatanPolly\.android\build-cache\f799f8a429ca4468a9b4620e214ddb6d612784d6\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:39:9-62
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:38:9-54
+activity#dominando.android.ex01_hello.MapaActivity
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:41:5-48:16
+	android:screenOrientation
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:44:9-45
+	android:label
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:43:9-52
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:42:9-37
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:45:9-47:74
+	android:value
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:47:13-71
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:46:13-59
+activity#dominando.android.ex01_hello.Mapa_visualizacao
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:50:5-57:16
+	android:screenOrientation
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:53:9-45
+	android:label
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:52:9-65
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:51:9-70
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:59:5-120
+	android:value
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:59:62-117
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:59:16-61
+activity#dominando.android.ex01_hello.RegisterActivity
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:61:5-63:48
+	android:screenOrientation
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:63:9-45
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:62:9-41
+activity#dominando.android.ex01_hello.RegistrarOcorrecia
+ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:64:5-66:57
+	android:screenOrientation
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:66:9-45
+	android:name
+		ADDED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml:65:9-43
+uses-sdk
+INJECTED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\NatanPolly\.android\build-cache\ee0dab420e7803c2c3aca0a78b7aa1cd17944aef\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\NatanPolly\.android\build-cache\41ac4e55fe8cc3c1f2c9b0eca62aeea1052c6933\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\NatanPolly\.android\build-cache\26baeb04bc5e0343fa63ac1cd5067819d7a754a2\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\NatanPolly\.android\build-cache\f799f8a429ca4468a9b4620e214ddb6d612784d6\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\NatanPolly\.android\build-cache\b6b9348723aaf8ecb3008890f70f1d37efb10a9d\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.scalified:fab:1.1.2] C:\Users\NatanPolly\.android\build-cache\0064ff6cd0f0c24ad8e7c2cf8b6e357750529354\output\AndroidManifest.xml:23:5-25:41
+MERGED from [com.scalified:viewmover:1.1.0] C:\Users\NatanPolly\.android\build-cache\bee3d41cb06ae452e1c6066db555255c5a5b9d9a\output\AndroidManifest.xml:23:5-25:41
+MERGED from [com.scalified:uitools:1.1.1] C:\Users\NatanPolly\.android\build-cache\eb87a32282714547590eafdd980c919bfd09fc9f\output\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:design:25.2.0] C:\Users\NatanPolly\.android\build-cache\7a2f5d718570550470ec684b882a024101a905f7\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\NatanPolly\.android\build-cache\f828a2d57724b181200c97204ba7fdf3bea2adff\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\NatanPolly\.android\build-cache\2969bd67704a6c927107d0b5cff3c2d375954586\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\NatanPolly\.android\build-cache\945a586ea6404352db27ef39ccfb0e9709abd224\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\NatanPolly\.android\build-cache\faaf6a65732333e700185e0451aa2cc95bdc5fff\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\NatanPolly\.android\build-cache\5b0915882b685576cc8aa7e742c55302cd34e5d9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\NatanPolly\.android\build-cache\c2230b7037ca9db5a08d3e50791966417122cb13\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\NatanPolly\.android\build-cache\f5910e70bcf6b6ef7f318e195cf7e063d13b999d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\NatanPolly\.android\build-cache\9234f406090972e498082126a5de0d407ecdbd05\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\NatanPolly\.android\build-cache\a6913343c337bdc1755962f1faa03a3b0a4f98a9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\NatanPolly\.android\build-cache\ffec86c7fc5a88d9a8b95462b7b5ae42495e8444\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\NatanPolly\.android\build-cache\f219cf10f3518d0df8f3212f58a4fd144ecb4d55\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\NatanPolly\.android\build-cache\7a2f5d718570550470ec684b882a024101a905f7\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\NatanPolly\Downloads\Ex01_Hello\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\NatanPolly\.android\build-cache\41ac4e55fe8cc3c1f2c9b0eca62aeea1052c6933\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\NatanPolly\.android\build-cache\41ac4e55fe8cc3c1f2c9b0eca62aeea1052c6933\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\NatanPolly\.android\build-cache\41ac4e55fe8cc3c1f2c9b0eca62aeea1052c6933\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\NatanPolly\.android\build-cache\41ac4e55fe8cc3c1f2c9b0eca62aeea1052c6933\output\AndroidManifest.xml:19:19-85

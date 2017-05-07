@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\novo.png",
+        "source": "C:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\src\\main\\res\\mipmap-xhdpi\\novo.png"
+    },
+    {
+        "merged": "C:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\zonaperigo.png",
+        "source": "C:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\src\\main\\res\\mipmap-xhdpi\\zonaperigo.png"
+    },
+    {
+        "merged": "C:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\zona.png",
+        "source": "C:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\src\\main\\res\\mipmap-xhdpi\\zona.png"
+    },
+    {
+        "merged": "C:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\novo_icone.png",
+        "source": "C:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\src\\main\\res\\mipmap-xhdpi\\novo_icone.png"
+    }
+]

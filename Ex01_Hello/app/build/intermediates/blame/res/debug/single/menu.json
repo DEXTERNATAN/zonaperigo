@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\THIAGO\\AndroidStudioProjects\\Ex01_Hello\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main2.xml",
+        "source": "C:\\Users\\THIAGO\\AndroidStudioProjects\\Ex01_Hello\\app\\src\\main\\res\\menu\\menu_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\Desktop\\TCC\\Ex01_Hello\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_mapa.xml",
+        "source": "C:\\Users\\Diego\\Desktop\\TCC\\Ex01_Hello\\app\\src\\main\\res\\menu\\menu_mapa.xml"
+    },
+    {
+        "merged": "C:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\THIAGO\\AndroidStudioProjects\\Ex01_Hello\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\THIAGO\\AndroidStudioProjects\\Ex01_Hello\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\Desktop\\TCC\\Ex01_Hello\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Diego\\Desktop\\TCC\\Ex01_Hello\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_mapa.xml",
+        "source": "C:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\src\\main\\res\\menu\\menu_mapa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Diego\\Desktop\\TCC\\Ex01_Hello\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main2.xml",
+        "source": "C:\\Users\\Diego\\Desktop\\TCC\\Ex01_Hello\\app\\src\\main\\res\\menu\\menu_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main2.xml",
+        "source": "C:\\Users\\NatanPolly\\Downloads\\Ex01_Hello\\app\\src\\main\\res\\menu\\menu_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\THIAGO\\AndroidStudioProjects\\Ex01_Hello\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_mapa.xml",
+        "source": "C:\\Users\\THIAGO\\AndroidStudioProjects\\Ex01_Hello\\app\\src\\main\\res\\menu\\menu_mapa.xml"
+    }
+]

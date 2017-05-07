@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\NatanPolly\Downloads\Ex01_Hello\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ff29e3a20f880404c500f55adab76f2d3d05f636">
+        <dex dex="C:\Users\NatanPolly\Downloads\Ex01_Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_49f87727aed1c553b087070e508afad2d33e988d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NatanPolly\.android\build-cache\0064ff6cd0f0c24ad8e7c2cf8b6e357750529354\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed8dcbd3b5917e2da68ec6fe0bf89278a98b7d86">
+        <dex dex="C:\Users\NatanPolly\Downloads\Ex01_Hello\app\build\intermediates\pre-dexed\debug\classes_a308541d1cb415784f51e8f9853d0bc12f979fb2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NatanPolly\.android\build-cache\bee3d41cb06ae452e1c6066db555255c5a5b9d9a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b13f813132d907a55dd2f9ac10356a84220aca6">
+        <dex dex="C:\Users\NatanPolly\Downloads\Ex01_Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc155ef94a79aee42c656b4385b8ce45fb153c01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NatanPolly\.android\build-cache\0064ff6cd0f0c24ad8e7c2cf8b6e357750529354\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed8dcbd3b5917e2da68ec6fe0bf89278a98b7d86">
+        <dex dex="C:\Users\NatanPolly\Downloads\Ex01_Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a308541d1cb415784f51e8f9853d0bc12f979fb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NatanPolly\.android\build-cache\bee3d41cb06ae452e1c6066db555255c5a5b9d9a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b13f813132d907a55dd2f9ac10356a84220aca6">
+        <dex dex="C:\Users\NatanPolly\Downloads\Ex01_Hello\app\build\intermediates\pre-dexed\debug\classes_bc155ef94a79aee42c656b4385b8ce45fb153c01.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NatanPolly\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.9\872ec63b41181e29ad5a3723f1417356e2d2c0f2\slf4j-api-1.7.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="872ec63b41181e29ad5a3723f1417356e2d2c0f2">
+        <dex dex="C:\Users\NatanPolly\Downloads\Ex01_Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10\slf4j-api-1.7.9_b353f2a889e6087bd55244d7c0b6eb49838b2edb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NatanPolly\Downloads\Ex01_Hello\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\NatanPolly\Downloads\Ex01_Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b4d962781250fa9419b5f3b21a84a4fc2a6444bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\NatanPolly\.android\build-cache\eb87a32282714547590eafdd980c919bfd09fc9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25ec8a08945720922f7ed4d3eedd323fe09c9678">
+        <dex dex="C:\Users\NatanPolly\Downloads\Ex01_Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b46bcb8732e7720abb999c2a2b1d3b2beec8ae68\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NatanPolly\.gradle\caches\modules-2\files-2.1\org.slf4j\slf4j-api\1.7.9\872ec63b41181e29ad5a3723f1417356e2d2c0f2\slf4j-api-1.7.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="872ec63b41181e29ad5a3723f1417356e2d2c0f2">
+        <dex dex="C:\Users\NatanPolly\Downloads\Ex01_Hello\app\build\intermediates\pre-dexed\debug\slf4j-api-1.7.9_b353f2a889e6087bd55244d7c0b6eb49838b2edb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NatanPolly\.android\build-cache\eb87a32282714547590eafdd980c919bfd09fc9f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25ec8a08945720922f7ed4d3eedd323fe09c9678">
+        <dex dex="C:\Users\NatanPolly\Downloads\Ex01_Hello\app\build\intermediates\pre-dexed\debug\classes_b46bcb8732e7720abb999c2a2b1d3b2beec8ae68.jar" />
+    </item>
+
+</items>
